@@ -2,5 +2,5 @@
 # CSC 1570 Project to convert Art to Music
 # Author: jjblair
 # Date: 4-20-2023
-# Version: 0.1a
+# Version: 0.1b
 #++++++++++++++++++++++++++++++++++++++++++++++++++
